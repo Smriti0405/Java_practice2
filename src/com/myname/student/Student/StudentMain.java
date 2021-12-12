@@ -1,4 +1,4 @@
-//package com.myname.student.Student;
+package com.myname.student.Student;
 
-//public class StudentMain {
-//}
+public class StudentMain {
+}
